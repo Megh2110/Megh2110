@@ -13,6 +13,6 @@
 ![Meghana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Megh2110&show_icons=true&theme=radical)
 
 ## 📫 Connect with me
-- LinkedIn: [linkedin.com/in/meghana-girish](https://linkedin.com/in/meghana-girish)
-- Email: your-email@example.com
+- LinkedIn: www.linkedin.com/in/meghanag2110
+- Email: mouryamegha21@gmail.com
 

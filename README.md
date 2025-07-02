@@ -4,7 +4,7 @@
 💻 I build mobile apps using **Flutter**, experiment with **Python**, and explore **Docker, APIs**, and **Cloud tech**.
 
 ## 🚀 Skills
-- Flutter, Dart, Python, HTML, CSS, JavaScript
+- Flutter, Dart, Python, HTML, CSS , Kubernettes , Linux , CI/CD , Microsoft Azure
 - Firebase, SQLite, REST APIs
 - Docker, Git, GitHub
 - UI/UX Design, Responsive Web
